@@ -1,3 +1,6 @@
+# The Clipboard Project cannot continue development unless I receive help from someone who knows C++.
+# If you are this person, please email me at engineer@ucf.edu
+
 
 <div align="center" markdown="1">
    <sup>Special thanks to:</sup>
